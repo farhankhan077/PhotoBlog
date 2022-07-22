@@ -1,0 +1,18 @@
+img{
+    width:30%;
+    margin: calc(10%/6);
+    transition: 0.5s;
+}
+img:hover{
+    transform: scale(1.5);
+}
+
+nav{
+    border-bottom: 2px solid #f1f1f1;
+    width:30%;
+    margin: calc(10%/6);
+    padding: 10px 0px;
+}
+
+
+
